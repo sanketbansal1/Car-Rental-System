@@ -1,6 +1,6 @@
 # Car-Rental-System
 
-A system to provid multiple functionalities to different users such as renting and returning cars, adding and updating car details, including automatic fine calculation for late returns or damages, and adding new employees and customers
+A system to provide multiple functionalities to different users such as renting and returning cars, adding and updating car details, including automatic fine calculation for late returns or damages, and adding new employees and customers
 
 The following code named “main.cpp”, is an application of problem statement given in the C++ programming assignment using concepts in OOPS.
 
